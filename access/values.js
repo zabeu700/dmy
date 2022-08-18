@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "13.05.2004"; // Дата рождения
-var fullname = "Якимець Марія Дмитрівна" // ФИО
+var birthdate = "08.06.2004"; // Дата рождения
+var fullname = "Бутенко Валентин Миколайович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
